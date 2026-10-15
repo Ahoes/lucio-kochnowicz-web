@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFDD0"/><stop offset="1" stop-color="#F5EAFB"/></linearGradient></defs>
+<rect width="1200" height="900" fill="url(#f)"/>
+<rect x="24" y="24" width="1152" height="852" rx="18" fill="none" stroke="#CFB53B" stroke-width="2" opacity=".6"/>
+<text x="50%" y="48%" text-anchor="middle" font-family="Georgia, serif" font-style="italic" font-size="100" fill="#008080">Embarazo 2</text>
+<text x="50%" y="58%" text-anchor="middle" font-family="Georgia, serif" font-size="34" letter-spacing="4" fill="#6E6E00">FOTO DE MUESTRA · 1200×900</text>
+</svg>
